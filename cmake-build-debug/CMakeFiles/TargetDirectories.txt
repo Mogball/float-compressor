@@ -1,0 +1,3 @@
+/Users/jeff.niu/FloatCompressor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jeff.niu/FloatCompressor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jeff.niu/FloatCompressor/cmake-build-debug/CMakeFiles/FloatCompressor.dir
